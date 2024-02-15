@@ -45,5 +45,10 @@ namespace TestXia.Web.Controllers
         {
             return View();
         }
+
+        public ActionResult NewFunction()
+        {
+            return View();
+        }
     }
 }
